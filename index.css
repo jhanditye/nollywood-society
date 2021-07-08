@@ -25,3 +25,7 @@ header.logo{
     font-size: 2em;
     text-transform: uppercase;
 }
+
+a:hover{
+    color:green;
+}
