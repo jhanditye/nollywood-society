@@ -44,7 +44,7 @@ header ul li a{
     border-radius: 25px
 }
 
-header ul li a:hover{
+header ul li a:hover,.active{
     bacground: white;
     color:#2b1055;
 
